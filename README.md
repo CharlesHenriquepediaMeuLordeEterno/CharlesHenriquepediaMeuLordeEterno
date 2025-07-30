@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bom dia👋
 
+![Luta legal.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhalfwayriight.tumblr.com%2Fpost%2F673308078629879808%2Felden-ring-2022-dev-fromsoftware-it-happened&psig=AOvVaw2yXAp8NwgNTsxqt7Y7i_A5&ust=1753964224389000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjz5ofI5I4DFQAAAAAdAAAAABAE "This is a sample image.")
 <!--
 **CharlesHenriquepediaMeuLordeEterno/CharlesHenriquepediaMeuLordeEterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
