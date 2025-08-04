@@ -1,4 +1,4 @@
-## Bom dia👋
+## Olá👋
 
 ![uma luta daora.](https://giffiles.alphacoders.com/223/223000.gif " luta legal.")
 
